@@ -1,5 +1,8 @@
 _repo: Idyllios-a-beira-d-agua-Romance-original_62853
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62853-h/images/cover.jpg
 creator:
   author:
     agent_name: Pimentel, Alberto
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25371
     wikipedia: https://pt.wikipedia.org/wiki/Alberto_Pimentel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62853#Idyllios-a-beira-d-agua-Romance-original
 gutenberg_issued: '2020-08-04'
 gutenberg_type: Text
 identifiers:
